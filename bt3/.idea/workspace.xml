@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5032cda0-d302-4f2a-ae41-02ae7db2e397" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/password.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/res.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/ArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/BeautifulNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/BiInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/KTGIAITHUA002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/PasswordValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/SwingTableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/checkCapSoCong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/giaiThua.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/hoanvi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/sapxepsinhvientheolop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/web.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2U0H7mqGNsWJaLDXxxnjOSqo6dr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code java/project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;f2d3e39126b92bae04e769ae47a3cbc3&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code java\bt3\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code java\bt3" />
+      <recent name="D:\code java\bt3\.idea" />
+      <recent name="D:\code java\bt3\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.ArmstrongNumber" />
+      <module name="bt3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BiInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.BiInteger" />
+      <module name="bt3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="bt3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Test" />
+      <module name="bt3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Time" />
+      <module name="bt3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ArmstrongNumber" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.BiInteger" />
+        <item itemvalue="Application.Time" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5032cda0-d302-4f2a-ae41-02ae7db2e397" name="Changes" comment="" />
+      <created>1692069413316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692069413316</updated>
+      <workItem from="1692069414445" duration="6061000" />
+      <workItem from="1692267222663" duration="2706000" />
+      <workItem from="1692288378201" duration="3096000" />
+      <workItem from="1692321207701" duration="17676000" />
+      <workItem from="1692424715238" duration="3260000" />
+      <workItem from="1692497497735" duration="15985000" />
+      <workItem from="1692584109208" duration="1316000" />
+      <workItem from="1693031575939" duration="2358000" />
+      <workItem from="1693034556141" duration="27000" />
+      <workItem from="1693189226489" duration="779000" />
+      <workItem from="1693809788127" duration="711000" />
+      <workItem from="1693966100235" duration="671000" />
+      <workItem from="1693969073457" duration="1888000" />
+      <workItem from="1693992605292" duration="2364000" />
+      <workItem from="1694071236275" duration="11662000" />
+      <workItem from="1694085612594" duration="614000" />
+      <workItem from="1694098906301" duration="847000" />
+      <workItem from="1694142698636" duration="2587000" />
+      <workItem from="1694157305697" duration="263000" />
+      <workItem from="1694159886479" duration="4830000" />
+      <workItem from="1694190279546" duration="3315000" />
+      <workItem from="1694225013613" duration="834000" />
+      <workItem from="1694242022735" duration="2106000" />
+      <workItem from="1694247718744" duration="18000" />
+      <workItem from="1694339614075" duration="3578000" />
+      <workItem from="1694361446370" duration="74000" />
+      <workItem from="1694362821490" duration="682000" />
+      <workItem from="1694393649428" duration="1255000" />
+      <workItem from="1694414102673" duration="17000" />
+      <workItem from="1694493065074" duration="2124000" />
+      <workItem from="1694678442597" duration="3137000" />
+      <workItem from="1694682137053" duration="4338000" />
+      <workItem from="1695206970443" duration="399000" />
+      <workItem from="1695207737039" duration="153000" />
+      <workItem from="1695971422873" duration="2192000" />
+      <workItem from="1696040289249" duration="754000" />
+      <workItem from="1696213127332" duration="35000" />
+      <workItem from="1696228832562" duration="1012000" />
+      <workItem from="1696660923395" duration="3377000" />
+      <workItem from="1696902829769" duration="472000" />
+      <workItem from="1698828109451" duration="3664000" />
+      <workItem from="1698914004155" duration="10803000" />
+      <workItem from="1699329117350" duration="611000" />
+      <workItem from="1699409914514" duration="4519000" />
+      <workItem from="1699418092277" duration="2349000" />
+      <workItem from="1699606458932" duration="1685000" />
+      <workItem from="1699863069057" duration="3260000" />
+      <workItem from="1699926223618" duration="25000" />
+      <workItem from="1700021754837" duration="2902000" />
+      <workItem from="1700042780958" duration="1842000" />
+      <workItem from="1700105292410" duration="185000" />
+      <workItem from="1700212280847" duration="1348000" />
+      <workItem from="1700531291985" duration="4319000" />
+      <workItem from="1700660054165" duration="17000" />
+      <workItem from="1700707653643" duration="2609000" />
+      <workItem from="1700989806838" duration="631000" />
+      <workItem from="1701136340949" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/src/main/java/main/ArmstrongNumber.java" line="18">
+        <watch expression="number" language="JAVA" />
+      </inline-watch>
+    </watches-manager>
+  </component>
+</project>
